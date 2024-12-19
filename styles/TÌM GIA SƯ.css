@@ -1,0 +1,60 @@
+*{margin: auto}
+body { font-family: Arial, sans-serif;color:  white;}
+.img{
+	float:left;
+}
+.tong{
+    background-image: url("../images/NEN.jpg");
+    width: 900px;
+}
+.ca2{
+width: 900px;
+}
+table{
+margin-left: 0
+}
+.dau ul li{
+	display: inline;
+	padding:5px;
+}
+.dau ul li a{
+	text-decoration: none;
+}
+.dau ul li a{
+	color: white
+}
+.dau ul li.dkht{
+	border-right: none;
+	border-radius: 5px;
+	border: 1px solid #FFF8F8;
+	background:#065f40;
+	box-shadow: 5px 5px 0px 0px #004731;
+}
+.dau ul li.dkht:hover{
+background: red;
+border-right: none;
+border-radius: 5px;
+border: 1px solid #FFF8F8;
+box-shadow: 5px 5px 0px 0px red;
+}
+.chu {
+	padding-left: 50px;
+	padding-top: 20px;
+	display: flex;
+	gap: 1px;
+	font-weight: bold;
+}
+.anh2{
+background-image: url("../images/NEN.jpg");
+ width: 900px;
+padding-top: 20px;
+}
+.giua {
+	width: 600px;
+	border: 1px solid black;
+}
+.dk {
+text-align: center
+}
+.tieude{
+text-align: center	
